@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Gamer ASUS ROG Strix G16",
+    "precio": 1299990,
+    "valoracion": 5,
+    "imagen": "notebook.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "iPhone 15 Pro Max 256GB",
+    "precio": 1219990,
+    "valoracion": 5,
+    "imagen": "iphone.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Monitor LG UltraGear 27'' 165Hz QHD",
+    "precio": 349990,
+    "valoracion": 4,
+    "imagen": "monitor.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Mouse Gamer Logitech G502 HERO",
+    "precio": 49990,
+    "valoracion": 5,
+    "imagen": "mouse.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Mecánico Redragon Kumara",
+    "precio": 35990,
+    "valoracion": 4,
+    "imagen": "teclado.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Audífonos HyperX Cloud II",
+    "precio": 79990,
+    "valoracion": 5,
+    "imagen": "audifonos.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "SSD Kingston NV2 1TB M.2",
+    "precio": 54990,
+    "valoracion": 4,
+    "imagen": "ssd.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Memoria RAM Corsair Vengeance 16GB",
+    "precio": 45990,
+    "valoracion": 5,
+    "imagen": "ram.jpg"
+  }
+]

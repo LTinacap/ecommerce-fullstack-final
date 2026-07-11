@@ -1,0 +1,73 @@
+.banner-container {
+  display: flex;
+  background: linear-gradient(to right, #0a101d, #21153a);
+  color: white;
+  padding: 80px 60px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.banner-content {
+  max-width: 50%;
+}
+
+.banner-content h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+
+.banner-content p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+  color: #cbd5e1;
+}
+
+.btn-ofertas {
+  background-color: #3b82f6;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.btn-ofertas:hover {
+  background-color: #2563eb;
+}
+
+.banner-image .placeholder-img {
+  width: 450px;
+  height: 250px;
+  background-color: #1e293b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  color: #94a3b8;
+}
+
+.banner-image-box {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px; 
+  overflow: hidden; 
+}
+
+
+.hero-image {
+  max-width: 90%;  
+  max-height: 300px; 
+  width: auto;     
+  height: auto;    
+  object-fit: contain; 
+  
+  
+  filter: drop-shadow(0px 15px 30px rgba(0, 0, 0, 0.7)); 
+  border-radius: 12px; /
+}
